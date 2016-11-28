@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">三个木匠</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登陆</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="loginName">工号/手机号</string>
+    <string name="forgetPwd">忘记密码</string>
+    <string name="getVerificationCode">获取验证码</string>
+    <string name="arguement">    为发挥双方的优势，共谋发展，并为今后逐步向组成集团公司过渡，双方经过充分友好的协商，特订立本协议。\n 一、建立密切的技术合作关系，今后凡甲方承接的工程，装修设计任务均交给乙方承担。\n 二、乙方保证，在接到任务后，将立即组织以高级工程师为领导的精干设计队伍，在10日提出设计方案，并在方案认可后一个月内完成全部设计图纸。\n 三、为保证设计的质量，甲方将毫无保留地向乙方提供所需的一切建筑技术资料。\n 四、装修施工队伍由甲方组织，装修工程的施工由甲方组织实施。施工期间，乙方派出高级工程师监督施工，以保证工程的质量。\n 五、甲方按装修工程总费用的千分之×向乙方支付设计费。\n 六、本协议自签订之日起生效。</string>
+</resources>
